@@ -1,0 +1,6 @@
+print(round(2.6))
+print(round(2.4))
+print(round(2.5))
+print(round(3.4))
+print(round(3.6))
+print(round(3.5))
